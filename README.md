@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width ="400" scr="https://img.freepik.com/premium-vector/young-woman-working-laptop-computer-female-office-worker-doing-online-distant-work-woman-working-from-home-office-freelance-online-education-concept-vector-illustration-isolated-white_538658-25.jpg">
 
-- 🌱 I’m currently learning **Laravel, Cloud Services**
 
 - 📫 How to reach me **varshaavarshaa111@gmail.com**
 
