@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sri Varshaa</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width ="400" scr="https://img.freepik.com/premium-vector/young-woman-working-laptop-computer-female-office-worker-doing-online-distant-work-woman-working-from-home-office-freelance-online-education-concept-vector-illustration-isolated-white_538658-25.jpg">
@@ -8,7 +7,7 @@
 
 - 📫 How to reach me **varshaavarshaa111@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
