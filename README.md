@@ -1,8 +1,8 @@
-### Hi there 👋
-![MasterHead](https://media.istockphoto.com/id/1328048984/vector/a-young-woman-is-at-her-desk-using-a-computer.jpg?s=612x612&w=0&k=20&c=s8E5FSyvus9Dw8b07BsiNzNkSp5uw6A6Mg0G8NW6oVg=)
+
+![MasterHead](https://codequotient.com/blog/wp-content/uploads/2022/08/8-Ways-To-Improve-Your-Logic-Building-Skills-For-Programming-Bootcamp.jpg)
 <h1 align="center">Hi 👋, I'm Sri Varshaa</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-illustration/woman-programmer-work-silhouette-girl-600nw-2205630025.jpg">
 
 - 📫 How to reach me **varshaavarshaa111@gmail.com**
 
