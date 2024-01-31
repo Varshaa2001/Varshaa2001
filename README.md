@@ -1,5 +1,5 @@
 
-![MasterHead](https://codequotient.com/blog/wp-content/uploads/2022/08/8-Ways-To-Improve-Your-Logic-Building-Skills-For-Programming-Bootcamp.jpg)
+
 <h1 align="center">Hi 👋, I'm Sri Varshaa</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-illustration/woman-programmer-work-silhouette-girl-600nw-2205630025.jpg">
