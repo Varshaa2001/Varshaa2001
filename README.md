@@ -2,11 +2,19 @@
 <h1 align="center">Hi 👋, I'm Sri Varshaa</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-illustration/woman-programmer-work-silhouette-girl-600nw-2205630025.jpg">
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Varshaa2001&label=Profile%20views&color=0e75b6&style=flat" alt="Varshaa2001" /> 
+</p>
 
+- 🔭 I’m currently working on **IoT, PHP, LARAVEL**
 - 📫 How to reach me **varshaavarshaa111@gmail.com**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/sri-varshaa-m-256347224" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
