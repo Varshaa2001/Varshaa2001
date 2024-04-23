@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Varshaa2001&label=Profile%20views&color=0e75b6&style=flat" alt="Varshaa2001" /> 
 </p>
 
-- 🔭 I’m currently working on **IoT, PHP, LARAVEL**
+- 🔭 I’m currently working on **IoT, PHP, LARAVEL, PYTHON, SQL**
 - 📫 How to reach me **varshaavarshaa111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
